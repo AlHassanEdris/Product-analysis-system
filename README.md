@@ -1,2 +1,28 @@
-# Product-analysis-system
-Multimodal system for product analysis using NLP and Computer Vision on product reviews and images, with dataset preparation and web scraping pipeline.
+# Multimodal Product Analysis System
+
+## Overview
+This project analyzes products using text (reviews) and images using NLP and Computer Vision.
+
+## Data
+- Sample dataset included
+- Future: Amazon / Fashion datasets
+- Future: Web scraping extension
+
+## Components
+- NLP sentiment analysis
+- Image classification
+- Multimodal fusion
+
+## Structure
+- data/
+- scraping/
+- models/
+- notebooks/
+
+## Future Work
+- Full scraping pipeline
+- Training models
+- Web app
+
+## Team
+Add members here
