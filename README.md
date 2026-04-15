@@ -26,7 +26,12 @@ This project analyzes products using text (reviews) and images using NLP and Com
 
 ## Team
 Al hassan Mohammed Edris
+
 Ali Ahmed Bhy Elden
+
 Youssef Anwar Anwar
+
 Yousef Samir Sayed
+
 Ahmed Badawy Lacy
+
