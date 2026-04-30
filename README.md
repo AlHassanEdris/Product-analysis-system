@@ -34,11 +34,16 @@ Text Model + Image Model → Fusion → Final Score → Recommendation
 ## Team
 Al hassan Mohammed Edris
 932230033
+
 Ali Ahmed Bhy Elden
 931230184
+
 Youssef Anwar Anwar
 932230231
+
 Yousef Samir Sayed
 931230364
+
 Ahmed Badawy Lacy
 931250665
+
